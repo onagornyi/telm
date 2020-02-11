@@ -1,0 +1,15 @@
+{
+  "name": "telm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:onagornyi/telm.git",
+  "author": "Oleksandr Nagornyi <oleksandr.nagornyi@in2ition.com.ua>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'No test specified'"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0"
+  }
+}
